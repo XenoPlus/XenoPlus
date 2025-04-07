@@ -1,0 +1,3 @@
+﻿#include "include\\utils\\resource.h"
+
+SCRIPT LUAFILE "include\\client.lua"
